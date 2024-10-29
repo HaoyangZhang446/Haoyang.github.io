@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Haoyang Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : " Master Student in Computer Engineering at the University of Virginia"
   location         : "Charlottesville, VA"
   email            :
   links:
@@ -137,6 +137,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/haoyang-zhang-chris/"
+
 
 # Site Footer
 footer:
