@@ -2,6 +2,7 @@
 title: "Homepage"
 layout: single
 permalink: /
+classes: wide
 ---
 
 # About
