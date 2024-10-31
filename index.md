@@ -1,6 +1,6 @@
 ---
-title: "Archive Layout with Content"
-layout: archive
+title: "Home with Content"
+layout: home
 permalink: /index/
 ---
 
