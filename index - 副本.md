@@ -1,6 +1,6 @@
 ---
 title: "Home with Content"
-layout: single
+layout: home
 permalink: /
 ---
 
