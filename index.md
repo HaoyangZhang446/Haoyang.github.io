@@ -1,7 +1,7 @@
 ---
 title: "Home with Content"
 layout: home
-permalink: /index/
+permalink: /
 ---
 
 A variety of common markup showing how the theme styles them.
