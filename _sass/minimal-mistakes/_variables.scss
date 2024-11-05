@@ -26,13 +26,13 @@ $sans-serif                 : "Lato", "Helvetica", -apple-system, ".SFNSText-Reg
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 $serif              : "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $sans-serif-narrow  : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 $global-font-family : $sans-serif ;
 $header-font-family : $sans-serif;
 
 /* sans serif typefaces */
-//$sans-serif-narrow: $sans-serif !default;
+$sans-serif-narrow: $sans-serif !default;
 //$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
