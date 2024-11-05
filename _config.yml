@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Haoyang Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/haoyang_pic.jpg"
   bio              : "25'MEng ECE @ UVA <br> Computer Architecture <br> Domain Specific Accelerators <br> Digital IC"
   location         : "Charlottesville, VA"
   email            :
