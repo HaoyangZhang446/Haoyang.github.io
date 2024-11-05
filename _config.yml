@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haoyang-zhang-chris/"
     - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar-square"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=RfroKP0AAAAJ&hl=en"
     - label: "Website"
       icon: "fas fa-fw fa-link"
